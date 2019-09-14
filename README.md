@@ -64,6 +64,7 @@ Some examples of open-source projects created by Iranian developers:
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 - [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**bootstrap-v4-rtl**](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
 - [@imanghafoori1](https://github.com/imanghafoori1)/[**laravel-widgetize**](https://github.com/imanghafoori1/laravel-widgetize)
+- [@targoman](https://github.com/targoman)/[**TargomanSMT](https://github.com/Targoman/TargomanSMT)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
